@@ -1,4 +1,4 @@
-# Hack_I7_10700_B460M_DS3H_RX460-RX560
+# Hack_I7_10700_技嘉B460M_DS3H_RX460-RX560
 i7 10代黑苹果组装机opencore 0.6.7 配置文件
 
 <img width="611" alt="图片" src="https://user-images.githubusercontent.com/18520337/114675430-cdb83e80-9d3a-11eb-8670-7be6ad261bff.png">
